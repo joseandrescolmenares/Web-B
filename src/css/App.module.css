@@ -1,0 +1,22 @@
+body{
+   background-color: rgb(16, 16, 110);
+   
+}
+
+.container{
+    width:900px;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    background-color: rgb(36, 92, 214);
+    padding: 20px;
+}
+
+.conte_padre{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    height: 100vh;
+   
+}
